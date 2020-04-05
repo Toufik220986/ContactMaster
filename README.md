@@ -21,6 +21,12 @@ Contact model fields is:
 - PhoneNumber
 - Status
 
+Code Details:
+	- Attached Zip file which contains complete code, including MVC controller, Web API controller, views etc.
+	- As packages folder size is more than 30mb so divide it into two seprate Zip file Package1 & Package2.
+	- Below I have attached DB script.
+	
+
 Database details:
   Created "ContactMaster" database with table named as "CustomerDtl":
   Below I have attached ContactMaster DB schema script:
